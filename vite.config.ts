@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/stocks-dashboard-react/' 
+  base: './' 
 })
