@@ -15,8 +15,6 @@ export function StockCard({
   change,
   changeColor,
   textColor,
-  chartBorder,
-  chartGradient,
   width = "w-[209px]",
   align = "center",
 }: StockCardData) {

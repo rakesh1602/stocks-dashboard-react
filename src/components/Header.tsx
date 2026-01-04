@@ -2,9 +2,6 @@ import { useState } from 'react'
 import {
     Dialog,
     DialogPanel,
-    Disclosure,
-    DisclosureButton,
-    DisclosurePanel,
     Popover,
     PopoverButton,
     PopoverGroup,
